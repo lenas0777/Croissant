@@ -1,0 +1,18 @@
+body {
+  background-color: lightsalmon;
+  text-align: center;
+}
+h1 {
+  color: aliceblue;
+  padding: 20px;
+  font-size: 50px;
+}
+p {
+  color: antiquewhite;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+a {
+  color: maroon;
+  font-size: 20px;
+}
